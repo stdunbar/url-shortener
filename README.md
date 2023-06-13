@@ -61,7 +61,7 @@ To request a short link, POST something like:
 
 ```json
     {
-      "long_url": "https://www.inshare.com/"
+      "long_url": "https://www.hotjoe.com/"
     }
 ```
 
